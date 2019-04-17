@@ -43,6 +43,7 @@ dependencies {
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.8.1'
     compile group: 'commons-io', name: 'commons-io', version: '2.6'
     compile 'org.jetbrains:annotations:16.0.3'
+    compile 'org.projectlombok:lombok'
 
     //swagger支持
 //    compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
